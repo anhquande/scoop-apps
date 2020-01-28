@@ -2,7 +2,7 @@
 	"homepage": "http://www.oracle.com/technetwork/developer-tools/sql-developer/index.html",
 	"version": "18.1.0.095.1630",
 	"license": "http://www.oracle.com/technetwork/licenses/sqldev-license-152021.html",
-	"url": "http://download.oracle.com/otn/java/sqldeveloper/sqldeveloper-18.1.0.095.1630-no-jre.zip",
+	"url": "https://download.oracle.com/otn/java/sqldeveloper/sqldeveloper-19.2.1.247.2212-no-jre.zip?AuthParam=1580199143_2b68f80ad4e75b6b3d059233bf319866",
 	"cookie": {
 		"oraclelicense": "accept-securebackup-cookie"
 	},
